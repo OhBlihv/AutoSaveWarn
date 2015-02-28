@@ -1,0 +1,8 @@
+#Configuration
+#message = The message displayed when the save-all is executed
+#Supports colour codes in the form of &a, &2, &m etc.
+
+#autosave = Time in SECONDS that save-all and the warning will execute
+
+message: "&cSaving the world..."
+autosave: 300

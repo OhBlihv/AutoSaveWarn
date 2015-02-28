@@ -1,0 +1,5 @@
+name: ${project.artifactId}
+version: ${project.version}
+author: OhBlihv
+main: net.auscraft.AutoSaveWarn.AutoSaveWarn
+description: 'Custom alerts on Save'
